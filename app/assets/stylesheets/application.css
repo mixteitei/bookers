@@ -38,3 +38,11 @@ a:hover {
   color: #fff;
   background-color: #000;
 }
+
+.field, .actions {
+  margin-bottom: 10px;
+}
+
+label {
+  display: block;
+}
